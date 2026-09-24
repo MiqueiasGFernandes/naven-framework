@@ -772,13 +772,14 @@ Each milestone should leave the framework in a working and demonstrable state.
 
 - [X] Define minimum supported Python version
 - [X] Create package structure
-- [ ] Configure `pyproject.toml`
-- [ ] Configure linting
-- [ ] Configure formatting
+- [X] Configure `pyproject.toml`
+- [X] Configure linting
+- [X] Configure formatting
 - [X] Configure type checking
 - [ ] Configure `pytest`
 - [ ] Configure CI
 - [ ] Add license
+
 - [ ] Add contributing guidelines
 - [ ] Create initial Architecture Decision Records
 
