@@ -699,6 +699,9 @@ idempotency.miss
 
 # Architecture
 
+Significant architectural choices and proposals are documented in the
+[Architecture Decision Records](docs/adr/README.md).
+
 The initial architecture is expected to evolve toward:
 
 ```text
@@ -777,12 +780,11 @@ Each milestone should leave the framework in a working and demonstrable state.
 - [X] Configure formatting
 - [X] Configure type checking
 - [X] Configure `pytest`
-- [ ] Configure CI
-- [ ] Add license
+- [X] Configure CI
+- [X] Add license
+- [X] Add contributing guidelines
+- [X] Create initial Architecture Decision Records
 
-- [ ] Add contributing guidelines
-- [ ] Create initial Architecture Decision Records
-formatting
 ### Deliverable
 
 An installable Naven package with CI and a working test suite.
@@ -1385,4 +1387,4 @@ Contributions, discussions and design proposals will be welcome as the core runt
 
 # License
 
-To be defined.
+Naven is available under the [MIT License](LICENSE).
