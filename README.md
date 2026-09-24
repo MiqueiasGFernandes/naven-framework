@@ -776,13 +776,13 @@ Each milestone should leave the framework in a working and demonstrable state.
 - [X] Configure linting
 - [X] Configure formatting
 - [X] Configure type checking
-- [ ] Configure `pytest`
+- [X] Configure `pytest`
 - [ ] Configure CI
 - [ ] Add license
 
 - [ ] Add contributing guidelines
 - [ ] Create initial Architecture Decision Records
-
+formatting
 ### Deliverable
 
 An installable Naven package with CI and a working test suite.
