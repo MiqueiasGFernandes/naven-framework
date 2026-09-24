@@ -770,12 +770,12 @@ Each milestone should leave the framework in a working and demonstrable state.
 
 ## Milestone 0 — Foundation
 
-- [ ] Define minimum supported Python version
-- [ ] Create package structure
+- [X] Define minimum supported Python version
+- [X] Create package structure
 - [ ] Configure `pyproject.toml`
 - [ ] Configure linting
 - [ ] Configure formatting
-- [ ] Configure type checking
+- [X] Configure type checking
 - [ ] Configure `pytest`
 - [ ] Configure CI
 - [ ] Add license
